@@ -1,16 +1,13 @@
-## Hi there 👋
+## Merhaba, ben Harun Yahya Dündar
 
-<!--
-**harunydundar/harunydundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bayburt Üniversitesi Bilgisayar Programcılığı öğrencisiyim.
 
-Here are some ideas to get you started:
+- İlgi alanlarım: C#, Windows Forms, web programlama ve Arduino
+- Şu an öğreniyorum: Git ve GitHub
+- Hedefim: Yazılım geliştirici olmak
+- İletişim: harunydundar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projelerim
+
+- Merhaba Dünya: C# programlama dili kullanılarak Visual Studio ortamında geliştirilmiş basit bir konsol uygulaması.
+- Proje bağlantısı: https://github.com/harunydundar/MerhabaDunya
